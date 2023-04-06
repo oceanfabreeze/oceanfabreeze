@@ -7,13 +7,14 @@ My background is in Systems Architecture and Systems Administration. I'm a Linux
 👨‍🎓 I attended Penn State University's Main Campus and recieved my Bachelors in Information Sciences and Technology in 2017.
 📚 I'm currently studying Computer Science at University of Pennsylvania. 
 ⚒ My most recent positions have been Senior System Architect at Oracle Health and Systems Engineer at ChristianaCare.
+
 ⭐ My attained Certifications are..
-    -CompTIA ITF+
-    -CompTIA A+
-    -CompTIA Linux+
-    -CompTIA Certified Systems Support Specialist
-    -Amazon Web Services: Certified Cloud Practitioner
-    -Zabbix Certified Specialist
+-CompTIA ITF+
+-CompTIA A+
+-CompTIA Linux+
+-CompTIA Certified Systems Support Specialist
+-Amazon Web Services: Certified Cloud Practitioner
+-Zabbix Certified Specialist
 
 🌱 I’m currently learning more about Ansible, Python and Microsoft Azure. 
 
