@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tom! Welcome to my GitHub. 
+My name is Tom! Welcome to my GitHub. <br><br>
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODExMGM3YWZkNDhjMGFmNDMwOTk0YmVhMjA4YmE5NjdmMmZhMjVkNiZjdD1n/AFdcYElkoNAUE/giphy.gif)
 
 My background is in Systems Architecture and Systems Administration. I'm a Linux enthusiast who loves automation. 
