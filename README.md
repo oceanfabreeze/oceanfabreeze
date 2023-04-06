@@ -4,9 +4,9 @@ My name is Tom! Welcome to my GitHub.
 
 My background is in Systems Architecture and Systems Administration. I'm a Linux enthusiast who loves automation. 
 
-👨‍🎓 I attended Penn State University's Main Campus and recieved my Bachelors in Information Sciences and Technology in 2017.
-📚 I'm currently studying Computer Science at University of Pennsylvania. 
-⚒ My most recent positions have been Senior System Architect at Oracle Health and Systems Engineer at ChristianaCare.
+👨‍🎓 I attended Penn State University's Main Campus and recieved my Bachelors in Information Sciences and Technology in 2017.<br>
+📚 I'm currently studying Computer Science at University of Pennsylvania.<br>
+⚒ My most recent positions have been Senior System Architect at Oracle Health and Systems Engineer at ChristianaCare.<br>
 
 ⭐ My attained Certifications are..<br>
 -CompTIA ITF+<br>
