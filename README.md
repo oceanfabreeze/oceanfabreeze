@@ -7,7 +7,7 @@ My background is in Systems Architecture and Systems Administration. I'm a Linux
 
 👨‍🎓 I attended Penn State University's Main Campus and recieved my Bachelors in Information Sciences and Technology in 2017.<br>
 📚 I'm currently studying Computer Science at University of Pennsylvania.<br>
-⚒ My most recent positions have been Senior System Architect at Oracle Health and Systems Engineer at ChristianaCare.<br>
+⚒ My most recent positions have been System Architect at Cerner and Systems Engineer at ChristianaCare.<br>
 👯 I’m a part of the GitHub and Apple Developer Programs! Collaborate with me!<br>
 
 ⭐ My attained Certifications are..<br>
