@@ -17,6 +17,8 @@ My background is in Systems Architecture and Systems Administration. I'm a Linux
 -CompTIA Certified Systems Support Specialist<br>
 -Amazon Web Services: Certified Cloud Practitioner<br>
 -Zabbix Certified Specialist<br>
+-Oracle Cloud Infrastructure: Foundations<br>
+-Oracle Linux Certified Engineer<br>
 
 🌱 I’m currently learning more about Ansible, Python and Microsoft Azure. 
 
