@@ -10,16 +10,6 @@ My background is in Systems Architecture and Systems Administration. I'm a Linux
 ⚒ My most recent positions have been Senior System Architect at Oracle, System Architect at Cerner and Systems Engineer at ChristianaCare.<br>
 👯 I’m a part of the GitHub and Apple Developer Programs! Collaborate with me!<br>
 
-⭐ My attained Certifications are..<br>
--CompTIA ITF+<br>
--CompTIA A+<br>
--CompTIA Linux+<br>
--CompTIA Certified Systems Support Specialist<br>
--Amazon Web Services: Certified Cloud Practitioner<br>
--Zabbix Certified Specialist<br>
--Oracle Cloud Infrastructure: Foundations<br>
--Oracle Linux Certified Engineer<br>
-
 🌱 I’m currently learning more about Ansible, Python and Microsoft Azure. 
 
 ⚡ Hobbies and Fun Facts: I'm passionate about all types of engineering. I'm really into Cars, Motorcycles, Airplanes and Rockets. Music is a big part of my life. I'm a huge Pokemon fan, and I like to skateboard whenever I can. I run and host my own homelab server rack which helps me learn and keep my skills sharp.<br>
