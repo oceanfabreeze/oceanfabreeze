@@ -6,7 +6,7 @@ My name is Tom! Welcome to my GitHub. <br><br>
 My background is in Systems Architecture and Systems Administration. I'm a Linux enthusiast who loves automation. 
 
 👨‍🎓 I attended Penn State University's Main Campus and recieved my Bachelors in Information Sciences and Technology in 2017.<br>
-📚 I am certified in many tech stacks including OCI DevOps Professional, OCI Foundations, AWS Cloud Practitioner, CompTIA Linux+, CompTIA A+, CompTIA ITF+, etc.<br>
+📚 I am certified in many tech stacks see [LinkedIn](https://www.linkedin.com/in/thomas-fabrizio/)<br>
 ⚒ My most recent positions have been Senior System Architect at Oracle, System Architect at Cerner and Systems Engineer at ChristianaCare.<br>
 👯 I’m a part of the GitHub and Apple Developer Programs! Collaborate with me!<br>
 
