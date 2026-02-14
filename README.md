@@ -6,11 +6,11 @@ My name is Tom! Welcome to my GitHub. <br><br>
 My background is in Systems Architecture and Systems Administration. I'm a Linux enthusiast who loves automation. 
 
 👨‍🎓 I attended Penn State University's Main Campus and recieved my Bachelors in Information Sciences and Technology in 2017.<br>
-📚 I'm currently studying Computer Science at University of Pennsylvania.<br>
+📚 I am certified in many tech stacks including OCI DevOps Professional, OCI Foundations, AWS Cloud Practitioner, CompTIA Linux+, CompTIA A+, CompTIA ITF+, etc.<br>
 ⚒ My most recent positions have been Senior System Architect at Oracle, System Architect at Cerner and Systems Engineer at ChristianaCare.<br>
 👯 I’m a part of the GitHub and Apple Developer Programs! Collaborate with me!<br>
 
-🌱 I’m currently learning more about Ansible, Python and Microsoft Azure. 
+🌱 I’m currently learning more about Ansible, Terraform, Python and CI/CD Pipelines. 
 
 ⚡ Hobbies and Fun Facts: I'm passionate about all types of engineering. I'm really into Cars, Motorcycles, Airplanes and Rockets. Music is a big part of my life. I'm a huge Pokemon fan, and I like to skateboard whenever I can. I run and host my own homelab server rack which helps me learn and keep my skills sharp.<br>
 
